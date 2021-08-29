@@ -17,11 +17,9 @@ export class DangNhapComponent implements OnInit {
   isShowInvalid = false;
   isShowEmpty = false;
 
-  // checkLogin = false;
-
-
   array = [{ user: "mochy", pass: "123" },
-  { user: "ford", pass: "mustang" }]
+  { user: "ford", pass: "mustang" },
+  {user: "thanghoang07@gmail.com", pass: "thanghoang"}]
 
   isTrue = false;
   data: any;

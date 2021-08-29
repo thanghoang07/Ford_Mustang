@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5cee9e50-05f2-4eef-a73f-2bf2a3e44355/resourceGroups/thanghoang7/providers/Microsoft.Web/sites/thanghoang7",
+    "appService.deploySubpath": "."
+}
